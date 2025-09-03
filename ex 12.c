@@ -3,7 +3,7 @@
 int main() 
 {
     int n;
-    printf("Entrez 4 nombre : ");
+    printf(entrez 4 nombre : ");
     scanf("%d", &n);
 
     int a = n % 10;          
@@ -17,4 +17,5 @@ int main()
 
     return 0;
 }
+
 
